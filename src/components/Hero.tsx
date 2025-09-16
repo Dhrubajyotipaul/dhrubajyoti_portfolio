@@ -1,6 +1,6 @@
 import { Download, Linkedin, Mail, Phone } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import profilePhoto from '@/assets/profile-photo.jpg';
+import profilePhoto from '@/assets/dhrubajyoti-photo.jpg';
 
 const Hero = () => {
   const handleDownloadResume = () => {
