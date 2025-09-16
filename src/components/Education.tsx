@@ -23,6 +23,13 @@ const Education = () => {
       period: '2023',
       status: '55.0%',
       description: 'Established strong academic base with emphasis on mathematics and analytical thinking.'
+    },
+    {
+      degree: 'Primary Schooling – Assam State School Education Board',
+      institution: 'Ideal English School, Dholai',
+      period: '2018',
+      status: 'Completed',
+      description: 'Completed primary schooling up to class 6 from a very small village named Sadagram, Dholai.'
     }
   ];
 
