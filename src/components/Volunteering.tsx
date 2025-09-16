@@ -38,7 +38,7 @@ const Volunteering = () => {
     { number: '150+', label: 'RTIs Filed & Resolved', icon: FileText },
     { number: '140+', label: 'Government Offices', icon: Users },
     { number: '5+', label: 'Major Impact Cases', icon: TrendingUp },
-    { number: '3+', label: 'Years of Activism', icon: Lightbulb }
+    { number: '1', label: 'Years of Activism', icon: Lightbulb }
   ];
 
   const impactAreas = [
